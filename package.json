@@ -1,0 +1,19 @@
+{
+  "name": "prism-sso-token-helper-extension",
+  "version": "1.0.0",
+  "description": "Automatically retrieve and fill in SSO token",
+  "main": "src/background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "volta": {
+    "node": "18.12.1",
+    "yarn": "1.22.19"
+  }
+}
