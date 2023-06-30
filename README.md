@@ -4,11 +4,11 @@ A helper extension to automatically retrieve and fill in SSO token on Prism dev 
 
 # Installation on Chrome
 
-![Screenshot20230630at103015AM.png](assets/Screenshot 2023-06-30 at 10.30.15 AM.png)
+![install.png](assets/install.png)
 
 # Usage
 
-![Screenshot20230630at103501AM.png](assets/Screenshot 2023-06-30 at 10.35.01 AM.png?t=1688092637784)
+![usage.png](assets/usage.png)
 
 Hint:
 
