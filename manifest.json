@@ -10,7 +10,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["http://localhost:3100/dev/sign_in*", "https://prism.joratest.com/dev/sign_in*"],
+      "matches": ["http://localhost:3100/dev/sign_in*", "https://prism.joratest.com/dev/sign_in*", "http://*.lvh.me:3100/dev/sign_in*"],
       "js": ["src/content.js"]
     }
   ],
