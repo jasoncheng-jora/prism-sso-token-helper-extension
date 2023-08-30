@@ -1,5 +1,5 @@
 function populateForm(value) {
-  document.querySelector("input[name='jora_user_sso']").value = value;
+  document.querySelector("input[name='bearerToken']").value = value;
 }
 
 (async () => {
